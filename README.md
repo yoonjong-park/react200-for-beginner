@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# React practice 200 - for beginner
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+이 프로젝트는 리액트 연습을 위해서 TIL로 하는 개인 프로젝트입니다.
+React에 대해 아는 것도 꾸준히 연습하자는 의미에서 단순한 코드를 매일 꾸준히 업로드 하는 것을 목표로 합니다.
+
+저작권은 정보문화사에 있습니다. 무단 복제를 금하고 있습니다.
+원본 소스 - 정보문화사 홈페이지의 자료실에서 다운받을 수 있습니다. (초보자를 위한 리액트 200제. 이정열 지음)
 
 ## Available Scripts
 
