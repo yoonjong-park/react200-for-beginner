@@ -1,13 +1,13 @@
 import React from "react";
 import "./App.css";
-import ImportConponent from "./R001_ImportConponent";
+import LifecycleEx from "./R004_LifecycleEx"; // "./R004_LifecycleEx.js 결과 같음"
 
 function App() {
   return (
     <div>
       <h1>Start React 200!</h1>
       <p>HTML 적용하기</p>
-      <ImportConponent></ImportConponent>
+      <LifecycleEx></LifecycleEx>
     </div>
   );
 }
