@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-class R005_LifeCycleEx extends Component {
+class R005_LifecycleEx extends Component {
   // Component가 부모 클래스.  부모객체를 class로 연장/확대한다는 의미이다.  *extend : 확대하다/연장하다.
   constructor(props) {
     // constructor 함수는 생명주기 함수 중 가장 먼저 실행되며, 처음 한 번만 호출된다.
@@ -23,4 +23,4 @@ class R005_LifeCycleEx extends Component {
   }
 }
 
-export default R005_LifeCycleEx;
+export default R005_LifecycleEx;
